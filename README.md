@@ -4,7 +4,7 @@ Welcome to my portfolio website! This is a responsive, user-friendly, and stylis
 
 ## 🚀 Live Demo
 
-Check out the live version of the site here: [https://yourdeploymentlink.com](https://yourdeploymentlink.com)
+Check out the live version of the site here: https://clarencelaria.github.io/PLP-hackathon/
 
 ## 📌 Features
 
