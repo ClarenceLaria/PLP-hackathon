@@ -4,7 +4,7 @@ Welcome to my portfolio website! This is a responsive, user-friendly, and stylis
 
 ## 🚀 Live Demo
 
-Check out the live version of the site here: https://clarencelaria.github.io/PLP-hackathon/
+Check out the live version of the site here: [Check it out here](https://clarencelaria.github.io/PLP-hackathon/)
 
 ## 📌 Features
 
@@ -27,7 +27,16 @@ Check out the live version of the site here: https://clarencelaria.github.io/PLP
 
 ## 📁 Folder Structure
 
-PLP-hackathon/ ├── images/ │ ├── LOGO.png │ ├── logo1.png │ ├── pexels-carlos-oliva-3586966.jpg │ ├── pexels-irina-iriser-1366957.jpg │ ├── pexels-pixabay-33045.jpg │ └── pexels-pixabay-36717.jpg ├── index.html └── style.css
+PLP-hackathon/
+├── images/
+│   ├── LOGO.png
+│   ├── logo1.png
+│   ├── pexels-carlos-oliva-3586966.jpg
+│   ├── pexels-irina-iriser-1366957.jpg
+│   ├── pexels-pixabay-33045.jpg
+│   └── pexels-pixabay-36717.jpg
+├── index.html
+└── style.css
 
 ### 📄 Description
 
@@ -45,9 +54,9 @@ _Add screenshots of your website here showing the homepage, services, and respon
    git clone https://github.com/ClarenceLaria/PLP-hackathon.git
    ```
    
-```bash
-cd PLP-hackathon
-```
+   ```bash
+   cd PLP-hackathon
+   ```
 
 ## ✨ Credits & Acknowledgements
 
@@ -61,7 +70,7 @@ cd PLP-hackathon
 Feel free to reach out if you'd like to collaborate or need help with a project!
 
 - 📧 Email: yourname@email.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: [your-portfolio.com](https://clarencelaria.github.io/PLP-hackathon/)
 - 🐦 Twitter/ X: [@ClarenceLaria](https://x.com/ClarenceLaria)
 
 ## ⚖️ License
