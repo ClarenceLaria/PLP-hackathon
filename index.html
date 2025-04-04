@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trial Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200&display=swap" rel="stylesheet">
+    <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="images/logo1.png" alt="" class="logo1"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">SERVICES</a></li>
+                    <li><a href="">BLOG</a></li>
+                    <li><a href="">CONTENT</a></li>
+                </ul>
+            </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+    <div class="text-box">
+        <h1>WEBSITE DEVELOPMENT SERVICES</h1>
+        <p>Making a website now is one of the easiest thing in the world. You
+        just need to learn HTML, CSS, <br>Javascript and you are good to go.</p>
+        <a href="" class="hero-btn">Contact me for more info</a>
+    </div>
+    </section>
+
+<!---------Services------>
+    <section class="services">
+        <h1>Services We Offer</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, similique dolorum? Optio ab consectetur doloremque repudiandae, omnis quisquam nostrum magni debitis nesciunt ex, assumenda aliquam possimus ducimus. Aut, ea eum!</p>
+        <div class="row">
+            <div class="service-col">
+                <h3>Beginner</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit explicabo temporibus deleniti error. Nam quibusdam est nisi ipsam perferendis quia dolorum voluptatum, ut, ipsum laborum consequatur accusamus, eos facere. Animi?</p>
+            </div>
+            <div class="service-col">
+                <h3>Intermediate</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit explicabo temporibus deleniti error. Nam quibusdam est nisi ipsam perferendis quia dolorum voluptatum, ut, ipsum laborum consequatur accusamus, eos facere. Animi?</p>
+            </div>
+            <div class="service-col">
+                <h3>Diamond</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit explicabo temporibus deleniti error. Nam quibusdam est nisi ipsam perferendis quia dolorum voluptatum, ut, ipsum laborum consequatur accusamus, eos facere. Animi?</p>
+            </div>
+        </div>
+    </section>
+
+<!----- About ------>
+    <section class="campus">
+        <h1>Our Locations</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nesciunt delectus assumenda, ratione sequi minus illo perspiciatis eius eaque magni accusantium officiis, minima consequatur rem iure enim fugit deserunt. Doloribus.</p>
+        
+        <div class="row">
+            <div class="campus-col">
+                <img src="images/pexels-pixabay-36717.jpg">
+                <div class="layer">
+                    <h3>LONDON</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="images/pexels-carlos-oliva-3586966.jpg">
+                <div class="layer">
+                    <h3>NEW YORK</h3>
+                </div>
+            </div>
+            <div class="campus-col">
+                <img src="images/pexels-irina-iriser-1366957.jpg">
+                <div class="layer">
+                    <h3>NAIROBI</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!---- Footer ------>
+
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.<br> Blanditiis dolorum sunt et magnam, asperiores ullam sapiente iste sed aut doloremque porro reprehenderit error ab rerum enim facere deserunt natus. Recusandae?</p>
+        <div class="icons">
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-linkedin"></i>
+            <p>Made with <i class="fa fa-heart-o"></i> by Clarence Laria</p>
+        </div>
+        
+    </section>
+
+    <!------JavaScript for Toggle Menu -------->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu(){
+            navLinks.style.right = "0";
+        }
+        function hideMenu(){
+            navLinks.style.right = "-200px";
+        }
+
+    </script>
+
+</body
+</html>
