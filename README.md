@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-Welcome to my portfolio website! This is a responsive, user-friendly, and stylish personal site built using **HTML**, **CSS**, **JavaScript**, and a simple **database backend**. It showcases my web development skills, the services I offer, and my journey as a creative coder.
+Welcome to my portfolio website! This is a responsive, user-friendly, and stylish personal site built using **HTML**, **CSS**, **JavaScript**. It showcases my web development skills, the services I offer, and my journey as a creative coder.
 
 ## 🚀 Live Demo
 
