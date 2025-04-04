@@ -43,10 +43,11 @@ _Add screenshots of your website here showing the homepage, services, and respon
 1. Clone the repository:
    ```bash
    git clone https://github.com/ClarenceLaria/PLP-hackathon.git
-
-
+   ```
+   
 ```bash
 cd PLP-hackathon
+```
 
 ## ✨ Credits & Acknowledgements
 
